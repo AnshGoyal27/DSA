@@ -1,0 +1,11 @@
+1.  Given 2 sorted array, 
+    combine both array into 3rd and 
+    3rd array result must be in sorted for,
+2.  Subsequence leetcode ( is-subsequence )
+3.  leetcode reverse-string
+4.  leetcode squares of a sorted array
+
+
+Array CRUD Operation
+Find the Second Largest Element in an Array
+Find the Third largest element in an Array
