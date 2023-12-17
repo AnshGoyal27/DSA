@@ -85,3 +85,33 @@ Array:
          New Array: 5,7,8
    4. Hashing
    5. Binary Search
+
+
+Java Collection: java.util
+   1. Framework in Java
+   2. Store Data and Perform Crud Operations
+   3. Prebuilt API
+   4. Increased Performance
+   5. Less Efforts and Code
+   6. Faster Developmentr
+
+
+
+Collection:
+   1. List ( Interface )   -----> Indexing
+      a. Arraylist ( Class )
+      b. Vector ( Class )    ------> Sync
+      c. Linked List ( Class )
+   2. Queue ( Interface )  -----> FIFO
+      a. Priority Queue ( Class )
+      b. Array Dequeue ( Class )
+   3. Set ( Interface ) -----> Unique
+      a. Hash Set ( Class )
+      b. LinkedHash Set ( Class ) -----> ( Ordered )
+      c. Tree Set ( Class ) -----> ( Sorted )
+
+Map: ------> ( Key, value )
+   1. HashMap ------> Key unorder
+   2. LinkedHash Map -------> Key Order
+   3. Tree Map -------> Key Sort
+
