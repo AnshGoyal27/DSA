@@ -1,3 +1,1 @@
-for(int k = i; k>=0; k--){
-        //     if()
-        // }
+        int[] amount = {1,2,5};
