@@ -2,15 +2,21 @@
 17. Letter Combinations
 22. Generate parenthesis
 31. Next Permutation
+46. Permutations
+48. Rotate Image
 51. N Queens
+56. Merge Intervals
 70. Climbing Stairs
 73. Set Zero matrix
+74. Search 2D matrix
 75. Sort Colors
+88. Merge Sorted Array
 118. Pascal's Triangle
 121. Best Time to Buy and Sell Stock
 221. Maximal Square
 242. Valid Anagram
 279. Perfect squares
+287. Find the duplicate number
 322. Coin Change
 344. Reverse string
 392. Is subsequence
