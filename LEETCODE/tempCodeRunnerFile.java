@@ -1,1 +1,1 @@
-        int[] amount = {1,2,5};
+                // System.out.println(matrix[mid][0]+" "+i+" "+j);
