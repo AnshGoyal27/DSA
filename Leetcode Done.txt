@@ -2,6 +2,7 @@
 17. Letter Combinations
 22. Generate parenthesis
 31. Next Permutation
+37. Sudoku Solver
 46. Permutations
 48. Rotate Image
 51. N Queens
@@ -10,6 +11,7 @@
 73. Set Zero matrix
 74. Search 2D matrix
 75. Sort Colors
+79. Word Search
 88. Merge Sorted Array
 118. Pascal's Triangle
 121. Best Time to Buy and Sell Stock
