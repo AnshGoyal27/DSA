@@ -1,4 +1,4 @@
-public class FindMaxSubArray {
+public class FindMaxSubArrayAvg {
     static public double findMaxAverage(int[] nums, int k) {
         double avg = 0;
         for(int i = 0; i<=k-1; i++){
