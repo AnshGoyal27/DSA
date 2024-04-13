@@ -7,25 +7,33 @@
 48. Rotate Image
 51. N Queens
 56. Merge Intervals
+64. Minimum Path Sum
 70. Climbing Stairs
 73. Set Zero matrix
 74. Search 2D matrix
 75. Sort Colors
 79. Word Search
 88. Merge Sorted Array
+100. Same Tree
+104. Maximum Depth of Binary Tree
+110. Balanced Binary Tree
 118. Pascal's Triangle
 121. Best Time to Buy and Sell Stock
+152. Max Product Subarray
 221. Maximal Square
+236. Lowest Common Ancestor
 242. Valid Anagram
 279. Perfect squares
 287. Find the duplicate number
 322. Coin Change
 344. Reverse string
 392. Is subsequence
+416. Partition Equal Subset Sum
 485. Max Consecutive Ones
 643. Max Avg Subarray
 713. Subarray product less than K
 977, Squares of Sorted Array
+1143. Longest Common Subsequence
 1657: Determine if 2 strings are close
 2270: Ways to split Array
 2785. Sort Vowels
