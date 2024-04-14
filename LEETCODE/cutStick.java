@@ -1,5 +1,5 @@
 
-public class cutStick {
+public class CutStick {
     static public int minCost(int n, int[] cuts) {
         int[] cost = new int[1];
         int[] calculated = new int[cuts.length];

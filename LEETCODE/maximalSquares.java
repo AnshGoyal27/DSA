@@ -1,4 +1,4 @@
-public class maximalSquares {
+public class MaximalSquares {
     static public int maximalSquare(char[][] matrix) {
         int[][] dp = new int[matrix.length][matrix[0].length];
         maxSquare(matrix, matrix.length, dp);

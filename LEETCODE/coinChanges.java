@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class coinChanges {
+public class CoinChanges {
 
     // SOLUTION 1
 

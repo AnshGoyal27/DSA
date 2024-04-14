@@ -1,4 +1,4 @@
-public class maxProductArray {
+public class MaxProductArray {
     static public int maxProduct(int[] nums) {
         int current = 0;
         int min = Integer.MAX_VALUE;

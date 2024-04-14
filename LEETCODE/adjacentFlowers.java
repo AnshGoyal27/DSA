@@ -1,4 +1,4 @@
-public class adjacentFlowers {
+public class AdjacentFlowers {
     // static public int[] gardenNoAdj(int n, int[][] paths) {
     //     int[] flowers = new int[n];
     //     fillGarden(n-1, paths, flowers);

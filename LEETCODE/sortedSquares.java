@@ -1,4 +1,4 @@
-public class sortedSquares {
+public class SortedSquares {
     public int[] sortedSquares(int[] nums) {
         int left = 0;
         int right = nums.length-1;

@@ -1,7 +1,7 @@
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class sortVowel {
+public class SortVowel {
     static public String sortVowels(String s) {
         PriorityQueue<Character> q = new PriorityQueue<Character>(new Comparator<Character>() {
             public int compare(Character c1, Character c2){

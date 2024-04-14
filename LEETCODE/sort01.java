@@ -1,4 +1,4 @@
-public class sort01 {
+public class Sort01 {
     static public void sortColors(int[] nums) {
         int i = 0;
         int j = nums.length-1;

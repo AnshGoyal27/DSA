@@ -1,4 +1,4 @@
-public class zeroesMatrix {
+public class ZeroesMatrix {
 
     static public void setZeroes(int[][] matrix) {
         boolean firstC = false;

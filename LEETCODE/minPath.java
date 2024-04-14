@@ -1,4 +1,4 @@
-public class minPath {
+public class MinPath {
     public int minPathSum(int[][] grid) {
         int[][] dp = new int[grid.length][grid[0].length];
         int min = mini(dp,grid,0,0);

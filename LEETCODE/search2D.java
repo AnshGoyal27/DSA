@@ -1,4 +1,4 @@
-public class search2D {
+public class Search2D {
     // static public boolean searchMatrix(int[][] matrix, int target) {
     //     int i = 0;
     //     int j = matrix.length-1;

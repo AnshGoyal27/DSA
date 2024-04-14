@@ -1,4 +1,4 @@
-public class equalPartition {
+public class EqualPartition {
     static public boolean canPartition(int[] nums) {
         int i = 0;
         int sum = 0;

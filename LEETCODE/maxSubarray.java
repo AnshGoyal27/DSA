@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class maxSubarray {
+public class MaxSubarray {
     // { MEMORY LIMIT EXCEEDED }
     // static public int maxSubArray(int[] nums) {
     //     int sum = 0;

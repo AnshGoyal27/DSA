@@ -14,7 +14,7 @@
  * }
  */
 
-public class depthBinaryTree {
+public class DepthBinaryTree {
     public int maxDepth(TreeNode root) {
         if(root==null){
             return 0;

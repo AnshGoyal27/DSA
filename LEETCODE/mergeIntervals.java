@@ -3,7 +3,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
 
-public class mergeIntervals {
+public class MergeIntervals {
     public int[][] merge(int[][] intervals) {
         PriorityQueue<List<Integer>> pq = new PriorityQueue<List<Integer>>(new Comparator<List<Integer>>() {
             public int compare(List<Integer> l1,List<Integer> l2){

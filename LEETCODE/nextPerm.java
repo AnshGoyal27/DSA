@@ -1,6 +1,6 @@
 import java.util.PriorityQueue;
 
-public class nextPerm {
+public class NextPerm {
     static public void nextPermutation(int[] nums) {
         if(nums.length==1){
             return;

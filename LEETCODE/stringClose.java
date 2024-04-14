@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 
 // Alternate and efficient solution is using arrays
-public class stringClose {
+public class StringClose {
     static public boolean closeStrings(String word1, String word2) {
         if(word1.length()!=word2.length()){
             return false;

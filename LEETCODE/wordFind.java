@@ -1,4 +1,4 @@
-public class wordFind {
+public class WordFind {
     static public boolean exist(char[][] board, String word) {
         char[][] checked = new char[board.length][board[0].length];
         char c = word.charAt(0);

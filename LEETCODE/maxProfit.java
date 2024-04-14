@@ -1,4 +1,4 @@
-public class maxProfit {
+public class MaxProfit {
     // public int maxProfit(int[] prices) {
     //     int profit = 0;
     //     int dp[] = new int[(int)Math.pow(10, 4)+2];

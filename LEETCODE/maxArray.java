@@ -1,4 +1,4 @@
-public class maxArray {
+public class MaxArray {
     // static public int maxSubArray(int[] nums) {
     //     int sum = 0;
     //     for(int i=0;i<nums.length;i++){

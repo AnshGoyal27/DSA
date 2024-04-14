@@ -20,6 +20,7 @@
 118. Pascal's Triangle
 121. Best Time to Buy and Sell Stock
 152. Max Product Subarray
+199. Binary Right Side View
 221. Maximal Square
 236. Lowest Common Ancestor
 242. Valid Anagram

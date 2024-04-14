@@ -1,4 +1,4 @@
-public class rotateMatrix {
+public class RotateMatrix {
     static public void rotate(int[][] matrix) {
         int temp;
         for(int i=0;i<=matrix.length/2;i++){
