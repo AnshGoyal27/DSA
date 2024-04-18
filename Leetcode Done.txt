@@ -14,26 +14,38 @@
 75. Sort Colors
 79. Word Search
 88. Merge Sorted Array
+98. Validate Binary Search Tree
 100. Same Tree
+101. Symmetry Tree
+103. Binary ZigZag
 104. Maximum Depth of Binary Tree
+107. Binary Tree Level Order Traversal II
 110. Balanced Binary Tree
+113. Path Sum II
+114. Flatten Binary Tree to Linked List
 118. Pascal's Triangle
 121. Best Time to Buy and Sell Stock
 152. Max Product Subarray
 199. Binary Right Side View
 221. Maximal Square
+230. Kth Smallest in BST
+235. Lowest Common Ancestor of a Binary Search Tree
 236. Lowest Common Ancestor
 242. Valid Anagram
 279. Perfect squares
+285. Inorder Successor
 287. Find the duplicate number
 322. Coin Change
 344. Reverse string
 392. Is subsequence
 416. Partition Equal Subset Sum
+450. Delete Node in BST
 485. Max Consecutive Ones
+545. Boundary of Binary Tree
 643. Max Avg Subarray
 713. Subarray product less than K
-977, Squares of Sorted Array
+977. Squares of Sorted Array
+1008. Construct Binary Search Tree from Preorder Traversal
 1143. Longest Common Subsequence
 1657: Determine if 2 strings are close
 2270: Ways to split Array
@@ -45,6 +57,10 @@ Pending
 1797. Design Authentication manager
 Toeplitz Matrix
 
+
+common ancestor bst
+children sum property
+construct binary tree from preorder and inorder traversal
 
 
 
